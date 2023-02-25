@@ -1,1 +1,3 @@
-# C 공부를 위한 repository
+# C-ex
+
+Repository for C Study
