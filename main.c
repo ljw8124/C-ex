@@ -65,17 +65,17 @@ void ex_bit() {
     //
 }
 
-int main() {
-//    printf("Hello, World!\n");
-
-//    ex01();
-//    ex02();
-//    ex_calc();
-//    ex_compare();
-    ex_substitute();
-
-    return 0;
-}
+//int main() {
+////    printf("Hello, World!\n");
+//
+////    ex01();
+////    ex02();
+////    ex_calc();
+////    ex_compare();
+//    ex_substitute();
+//
+//    return 0;
+//}
 
 
 
