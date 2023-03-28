@@ -64,11 +64,11 @@ void ex_bit() {
     //
     //
 }
-
+//
 //int main() {
 ////    printf("Hello, World!\n");
 //
-////    ex01();
+//    ex01();
 ////    ex02();
 ////    ex_calc();
 ////    ex_compare();
