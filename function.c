@@ -42,12 +42,12 @@ void exFunc_ex02() {
 }
 
 
-void main() {
-//    exFunc_01();
-//    exFunc_ex02();
-    int ex = exFunc_ex03(1, 2);
-    printf("sum = %d\n", ex);
-}
+//void main() {
+////    exFunc_01();
+////    exFunc_ex02();
+//    int ex = exFunc_ex03(1, 2);
+//    printf("sum = %d\n", ex);
+//}
 
 // 사용자 정의함수 -> 합을 구해줌
 int exFunc_ex03(int a, int b) {
