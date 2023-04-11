@@ -3,6 +3,7 @@ void swap1(int x, int y);
 void swap2(int *x, int *y);
 void fcn1();
 
+/*
 void main() {
 //    int a = 3, b = 5;
 //    printf("prev a = %d, b = %d\n", a, b);
@@ -14,6 +15,7 @@ void main() {
     fcn1();
     printf("\n main i = %d", i);
 }
+ */
 
 // 값에 의한 자료전달 방법구현 함수
 // 함수 내에서는 바뀌지만, 실제 값은 변화하지 않는다 -> 실 매개변수 값의 전달은 영향이 없다.
