@@ -6,6 +6,7 @@
 //    printf("Hello~ \n");    // Hello 문자열 출력, 그리고 줄바꿈
 //}                           // main 함수 범위
 
+/*
 #include <stdio.h>                      // printf, scanf 사용위해 선언
 #pragma warning(disable:4996)           // 경고 출력을 하지 않기 위해서 추가
 int a, b, c;                            // main 함수 정의 전에 변수 선언
@@ -24,3 +25,4 @@ void main() {                           // main 함수 정의 return 값은 없음
 int product(int x, int y) { // int x 와 y 를 파라미터로 받아 int 로 리턴시키는 함수 선언
     return (x * y);         // x 와 y 를 곱셈연산 한 후 리턴
 }                           // product 함수 범위
+ */
