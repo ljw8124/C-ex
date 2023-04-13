@@ -1,7 +1,7 @@
 //
 // Created by asoosoft10 on 2023-04-12.
 //
-
+/*
 #include <stdio.h>
 void main() {
 //    int *p, i = 3, j;
@@ -32,3 +32,4 @@ void main() {
     printf("*p + 2 == %d\n", *p + 2);
 
 }
+ */
