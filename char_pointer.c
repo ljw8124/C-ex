@@ -1,7 +1,7 @@
 //
 // Created by asoosoft10 on 2023-04-13.
 //
-
+/*
 #include <stdio.h>
 void main() {
     char *cp = "COMPUTER";
@@ -59,3 +59,4 @@ void main() {
     epp = &ep;
     printf("**epp = %c", **epp);
 }
+ */
