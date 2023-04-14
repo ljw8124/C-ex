@@ -58,3 +58,16 @@ void main() {       // 리턴 값이 없는 main 함수 선언
 }
  */
 
+/*
+#include <stdio.h>                                            // printf 사용을 위해 선언
+#define IN "원의 반지름은 100 입니다.\n"                         // define 을 이용하여 특정 문구를 출력하는 매크로 생성
+#define PI 3.1415926535                                       // define 을 이용해 PI 를 고정값으로 지정함
+#define AREA(X) (PI * (X) * (X))                              // define 을 이용하여 특정 값을 연산하는 매크로 생성
+#define OUT printf("원의 면적을 구하고 프로그램을 종료합니다.\n" )   // define 을 이용하여 특정 문구를 출력하는 매크로 생성
+void main() {                                                 // 리턴 값이 없는 main 함수 선언
+    printf("%s \n", IN);                                      // 매크로 IN 을 호출. 이때 s 는 문자열을 의미함
+    printf("원의 면적은 %10.5f입니다. \n\n", AREA(100));         // 매크로 AREA 를 이용하여 값을 계산함, 이 때 10.5f 는 실수 전체 자릿수 10자리, 소수점 이하 5자리 까지라는 의미
+    OUT;                                                      // 매크로 out 을 호출하여 특정 문구 출력
+}
+ */
+
