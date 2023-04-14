@@ -53,7 +53,7 @@ void main() {
     printf("*(PA[1]) = %d\n", *PA[1]);
     printf("*(PA[1] + 15) = %d\n", *PA[1]+ 15);
 
-    // ÀÌÁßÆ÷ÀÎÅÍ
+    // ì´ì¤‘ í¬ì¸í„°
     char C = 'A', *ep, **epp;
     ep = &C;
     epp = &ep;
